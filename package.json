@@ -1,0 +1,14 @@
+{
+  "name": "chromium-test",
+  "version": "1.0.0",
+  "description": "testing chromium package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.2.0"
+  }
+}
